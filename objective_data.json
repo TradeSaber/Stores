@@ -1,0 +1,62 @@
+{
+    "objectiveRange": [
+        3,
+        4,
+        5
+    ],
+    "playRange": [
+        5,
+        10,
+        15,
+        20
+    ],
+    "maxPercents": [
+        0.70,
+        0.75,
+        0.80,
+        0.85,
+        0.90
+    ],
+    "levels": [
+        {
+            "key": "7c04",
+            "hash": "122d07b5950b56e5973895bfa8e067c6474a7c06",
+            "difficulty": 3
+        },
+        {
+            "key": "12b27",
+            "hash": "f359c7b50c7174f45ee48744be0f396bcc93c905",
+            "difficulty": 2
+        },
+        {
+            "key": "86a",
+            "hash": "4692c6c200bc92364c268a518e9dee89146e4391",
+            "difficulty": 4
+        },
+        {
+            "key": "41f3",
+            "hash": "75b10748149340dea74ff1870b2a59f609ace7f5",
+            "difficulty": 0
+        },
+        {
+            "key": "f2f1",
+            "hash": "53e9542794da8e12a01b2b5fd3737674f1b7fbec",
+            "difficulty": 4
+        },
+        {
+            "key": "ba40",
+            "hash": "518fd81ac6fdbfd050ab8fac7c6ae7d73e16257a",
+            "difficulty": 1
+        },
+        {
+            "key": "b604",
+            "hash": "67dd0fa1244645d3bd69bfe67aa7a25edcf15692",
+            "difficulty": 4
+        },
+        {
+            "key": "10682",
+            "hash": "33b358e7b8554a4270184ea35bdad433457b2eb6",
+            "difficulty": 4
+        }
+    ]
+}
